@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\bin\Debug\net8.0\caixa.exe
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\bin\Debug\net8.0\caixa.deps.json
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\bin\Debug\net8.0\caixa.runtimeconfig.json
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\bin\Debug\net8.0\caixa.dll
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\bin\Debug\net8.0\caixa.pdb
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.sourcelink.json
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.dll
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\refint\caixa.dll
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.pdb
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\caixa.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Tazercraft\Caixa-Eletronico\caixa\obj\Debug\net8.0\ref\caixa.dll
